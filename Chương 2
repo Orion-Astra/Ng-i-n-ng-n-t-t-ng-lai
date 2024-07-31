@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 2 - Bằng</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black.
+        }
+        .container {
+            padding: 20px.
+        }
+        footer {
+            background-color: #333.
+            color: white.
+            text-align: center.
+            padding: 10px.
+            position: fixed.
+            bottom: 0.
+            width: 100%.
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Chương 2: Bằng(1)</h1>
+    </header>
+    <nav>
+        <a href="index.html">Trang chủ</a>
+        <a href="chuong1.html">Chương 1</a>
+        <!-- Thêm các liên kết chương khác tương tự -->
+    </nav>
+    <div class="container">
+        <p>__________
+
+
+
+"Cốc cốc" 
+
+Sự yên tĩnh trong phòng chỉ bị phá vỡ bởi ánh sáng len qua cửa sổ. Tiếng gõ cửa nhẹ nhàng vang lên. Ông quản gia vẻ mặt nghiêm nghị, nhẹ nhàng bước vào phòng. Trên tay ông là một đĩa thức ăn nhẹ và một ly sữa. 
+
+Ông đặt khay thức ăn lên bàn cạnh giường mà không tạo ra tiếng động lớn, đôi mắt vẫn không rời khỏi An. Ông chăm chú nhìn hắn một lúc, như đang kiểm tra tình hình sức khỏe của An. 
+
+An từ từ mở mắt, cảm nhận được sự hiện diện của ông quản gia. Hắn ngồi dậy, vẻ mệt mỏi vẫn hiện rõ trên khuôn mặt nhưng có phần tức giận. Hắn giữ thái độ bình thường, không tỏ ra quá lạnh nhạt nhưng cũng không quá thân thiện. 
+
+“Cậu chủ đã tỉnh rồi,” ông quản gia nói, giọng đều đều, không mang theo cảm xúc gì. Ông đứng thẳng, ánh mắt vẫn giữa trên người An, không rời khỏi cậu thiếu niên một giây nào. 
+
+An nhíu mày, giọng hơi gằn. “Ông đã vào phòng tôi sao? Sao không gõ cửa?” 
+
+Ông quản gia nhíu mày, nét mặt không thay đổi. “Tôi đã vào để kiểm tra tình trạng của cậu chủ và mang thức ăn cho cậu. Không có gì bất thường cả.” 
+
+An bực bội đứng dậy, đôi mắt lóe lên sự giận dữ. “Ông nghĩ tôi là đứa trẻ cần được chăm sóc từng chút một sao? Tôi không cần ai đó vào phòng tôi mà không có sự cho phép.” 
+
+Ông quản gia giữ vững thái độ bình tĩnh trả lời. “Tôi chỉ làm đúng trách nhiệm của mình, thưa cậu chủ. Sự an toàn của cậu là ưu tiên hàng đầu.” 
+
+An khẽ cười nhạt, nhưng nụ cười không chạm đến đôi mắt. “Vết thương của tôi sao rồi?” An đổi chủ đề, giọng nói có phần biếng nhát và khó chịu. 
+
+“Vết thương của cậu chủ đã được xử lý ổn thỏa. Nhưng cậu vẫn nên nghỉ ngơi thêm,” ông quản gia trả lời, đôi mắt quan sát từng cử chỉ của hắn, như muốn nhìn rõ những suy nghĩ của hắn. 
+
+An gật đầu, cố gắng che giấu sự nghi ngờ trong ánh mắt. Hắn nhớ lại cảnh ông quản gia lặng lẽ kiểm tra viên đá pha lê mà ông ta đặt trong phòng. "Chắc chắn có ai đó đã hãm hại tôi". 
+
+“Tôi sẽ điều tra kỹ lưỡng và đảm bảo an toàn cho cậu,” ông quản gia đáp, giọng nói có chút lạnh lùng. 
+
+An gật đầu, cố gắng giữ bình tĩnh trước ánh nhìn chằm chằm của ông quản gia. Ông quản gia lặng lẽ rời đi, để lại An với những suy nghĩ lẫn lộn trong đầu. 
+
+Nằm trên giường, trong màn đêm yên tĩnh, đầu óc dần dần quay trở lại với những ký ức mờ nhạt của thân xác nguyên chủ. Trong những mảnh ký ức đó, hắn nghe được cuộc trò chuyện của quản gia và biết rằng Bằng đã bị thương nặng, cơ thể bị cháy gần như hoàn toàn. Mặc dù biết về sức mạnh tái tạo của Bằng, An hiểu rằng nếu không có sự can thiệp kịp thời và đúng cách, Bằng sẽ không có cơ hội tái sinh. Nhưng hắn không vội, hắn biết mình không được hấp tấp vì sẽ dễ phạm phải sai lầm. 
+
+Tối hôm đó, hắn tham gia bữa tối cùng cha mẹ và em gái của thân xác nguyên chủ. Cha của thân xác này là một người đàn ông nghiêm túc, ít nói, luôn giữ vẻ uy nghiêm trong mọi tình huống. Mẹ kế thì rất đúng mực, luôn cẩn thận trong lời ăn tiếng nói và cách cư xử. Em gái Jene của An, dù nhỏ tuổi, nhưng rõ ràng không thích hắn lắm, luôn giữ khoảng cách và ít khi trò chuyện. 
+
+Cha của An lên tiếng phá hủy không khí im lặng: “Con đã làm xong công việc trong ngày chưa? Ba ngày nữa con phải đến buổi tiệc Vinh Danh của quốc vương thay mặt ta,” 
+
+An nhăn mặt rõ rệt.“Thưa cha, con không muốn đi đâu,” An trả lời thẳng thắn. “Con có nhiều việc khác cần làm và không thấy buổi tiệc đó quan trọng lắm.” 
+
+Cha của An nhíu mày, thở dài: “Cái buổi tiệc đó không phải là việc đơn giản đâu. Con đi không phải vì mình, mà là để giữ thể diện cho gia đình.” 
+
+An lắc đầu, không chịu nhượng bộ: “Con biết cha nghĩ thế, nhưng con thực sự không muốn tham gia. Con có cảm giác là con chỉ làm rối mọi thứ lên thôi.” 
+
+Mẹ kế của An, nhìn vào cuộc trò chuyện, xen vào: “An, có thể con nên cân nhắc. Đây là cơ hội để gia đình thể hiện mình.” 
+
+An tỏ vẻ kiên quyết: “Con không thấy có ích gì. Con không muốn tham dự và con sẽ không đi.” 
+
+Cha của An thấy rõ sự kiên quyết của con trai, nên chỉ thở dài một lần nữa: “Được rồi, nếu con đã quyết vậy thì cứ làm theo ý mình. Nhưng nhớ rằng, có những thứ cần phải cân nhắc.” 
+
+An gật đầu, cảm thấy nhẹ nhõm khi không phải đi buổi tiệc, tập trung vào bữa tối, ở tương lai cũng không được ăn ngon như vậy. 
+
+Jene ngồi im lặng suốt bữa ăn, không thèm nhìn hắn. Hắn cũng không cố gắng bắt chuyện với cô bé, biết rằng bất kỳ nỗ lực nào cũng sẽ không được đáp lại. Trong suốt bữa ăn, hắn không chỉ giữ im lặng mà còn thay đổi cách ứng xử so với nguyên chủ: hắn dùng dao nĩa một cách cẩn thận hơn, không vội vàng trong từng động tác, điều này đã được mẹ kế để ý nhưng không bày tỏ sự nghi ngờ. 
+
+Sau bữa tối, hắn quyết định làm một số công việc mà nguyên chủ thường bỏ qua. Hắn sắp xếp lại một số tài liệu trên bàn làm việc, kiểm tra một số giấy tờ và sắp xếp lại những vật dụng cần thiết. Những hành động này, mặc dù nhỏ nhặt, nhưng đã giúp hắn tạo ra một sự khác biệt rõ rệt mà không khiến ai nghi ngờ. 
+
+Bữa ăn kết thúc trong sự im lặng. An trở về phòng, đầu óc không ngừng suy nghĩ về việc phải làm để cứu Bằng. An biết rằng chỉ cần có đủ dinh dưỡng và điều kiện phù hợp, Bằng sẽ có cơ hội tái sinh. Nhưng trước mắt, hắn cần phải tìm được nơi an toàn và các thiết bị cần thiết để thực hiện nhiệm vụ này. Nhưng mọi kế hoạch và hành động đều phải chờ đợi thời điểm thích hợp. 
+
+Ăn tối xong, An nằm trên giường, trong màn đêm yên tĩnh, đầu óc hắn dần dần quay trở lại với những ký ức mờ nhạt của thân xác nguyên chủ. Trong những mảnh ký ức đó, An nghe được cuộc trò chuyện của quản gia và biết rằng Bằng đã chết. Tuy nhiên, nhờ thông tin từ tương lai, An biết về sức mạnh tái tạo của Bằng và hiểu rằng chỉ cần cung cấp đủ dinh dưỡng, Bằng sẽ có cơ hội tái sinh. Đó là nhiệm vụ mà hắn phải thực hiện theo thông điệp trong quyển nhật ký cổ .
+
+
+--- 
+
+Sáng hôm sau, An thức dậy sớm và quyết định đã đến lúc bắt đầu hành động. Hắn biết mình cần phải đưa ra một lý do hợp lý để không làm dấy lên nghi ngờ. Sau khi chuẩn bị xong, An gặp quản gia trong hành lang yên tĩnh của ngôi nhà. 
+
+"Ta cần ra ngoài để xử lý một số việc cá nhân không thể trì hoãn," An nói. "Có thể mất vài ngày. Ta đã sắp xếp công việc ở nhà ổn thỏa trong thời gian này, nên đừng lo lắng nếu ta không có mặt." 
+
+Quản gia nhìn An với vẻ quan tâm. Ông ta nhận thấy sự khác lạ trong thái độ và cách nói chuyện của An, nhưng không thể xác định chính xác điều gì đã thay đổi. Ông chỉ gật đầu và nói: "Rất tốt. Nếu có việc gì khẩn cấp cần sự hỗ trợ, xin hãy thông báo cho chúng tôi." 
+
+Người hầu cũng chỉ gật đầu tuân theo mệnh lệnh, không bày tỏ bất kỳ sự nghi ngờ nào. Quản gia nhận thấy sự khác lạ trong thái độ nhưng cũng không hỏi thêm điều gì. 
+
+An chuẩn bị một số vật dụng cần thiết cho hành trình. Hắn biết rằng mình cần phải di chuyển nhanh chóng và cẩn thận để không làm lỡ thời gian quý giá.
+___
+Theo thông tin từ quyển nhật ký cổ, hắn biết rằng Bằng đã bị giết ở ngôi làng hẻo lánh phía Tây nằm cách xa đế quốc, tọa lạc giữa những dãy núi hiểm trở và cánh rừng dày đặc. Làng này xa xôi, nằm giữa những cánh đồng và rừng cây dày đặc, tạo nên một bức tranh hoang vắng và tĩnh lặng. Lối vào làng được đánh dấu bằng những cột gỗ xù xì, và những ngôi nhà đơn sơ lẩn khuất giữa cây cối. 
+
+Sau khi hỏi thăm và điều tra, An biết được rằng Bằng đã được đưa ra khỏi làng và vào sâu trong rừng. Hắn di chuyển cẩn thận qua những con đường mòn hẹp và rậm rạp, với những bụi cây và cành cây che chắn xung quanh. 
+
+Cuối cùng, An đến một khu vực rừng thưa thớt hơn, nơi có một lỗ lớn như trời giáng, nằm sâu trong rừng. Lỗ này giống như một hố sâu tự nhiên, với những bức tường xung quanh bị lở loét và đá rơi rụng. Bên trong lỗ, An nhìn thấy thi thể của Bằng nằm ở đáy, nằm giữa đống đất đá và bụi bẩn.
+
+
+
+</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Trang web cá nhân về Viết Lách</p>
+    </footer>
+</body>
+</html>
